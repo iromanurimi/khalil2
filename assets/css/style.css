@@ -260,14 +260,14 @@ body {
 
 .benefit-card h3 {
     font-size: 1rem;
-    font-weight: 400;
+    font-weight: 500;
     margin-bottom: 0.5rem;
     color: var(--text-primary);
 }
 
 .benefit-card p {
     color: var(--text-secondary);
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     margin-bottom: 1rem;
 }
 
